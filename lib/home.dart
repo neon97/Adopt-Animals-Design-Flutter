@@ -13,6 +13,7 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     double height = MediaQuery.of(context).size.height;
     double width = MediaQuery.of(context).size.width;
+    
     return Scaffold(
       body: Container(
         color: Colors.white,
@@ -23,15 +24,18 @@ class _HomeState extends State<Home> {
           //crossAxisAlignment: CrossAxisAlignment.stretch,
           children: <Widget>[
             SizedBox(
-              height: height / 10,
+              height: height / 20,
             ),
-            Image(image: AssetImage("assets/images/home.png")),
-            SizedBox(
+            Container(
+                height: height / 2.5,
+                width: width,
+                child: Image(image: AssetImage("assets/images/home.png"))),
+                SizedBox(
               height: height / 30,
             ),
             Text(
               "Find your\nnew best friend",
-              style: TextStyle(fontSize: 40.0, fontWeight: FontWeight.bold),
+              style: TextStyle(fontSize: height / 22.0, fontWeight: FontWeight.bold),
               textAlign: TextAlign.center,
             ),
             SizedBox(
@@ -40,7 +44,7 @@ class _HomeState extends State<Home> {
             Text(
               "Discover cute animals around",
               style: TextStyle(
-                  fontSize: 20.0,
+                  fontSize: height / 38.0,
                   color: Color.fromRGBO(
                     158,
                     158,
@@ -56,7 +60,7 @@ class _HomeState extends State<Home> {
             Text(
               "you and adopt them to give",
               style: TextStyle(
-                  fontSize: 20.0,
+                  fontSize: height / 38.0,
                   color: Color.fromRGBO(
                     158,
                     158,
@@ -72,7 +76,7 @@ class _HomeState extends State<Home> {
             Text(
               "them a new chance",
               style: TextStyle(
-                  fontSize: 20.0,
+                  fontSize: height / 38.0,
                   color: Color.fromRGBO(
                     158,
                     158,

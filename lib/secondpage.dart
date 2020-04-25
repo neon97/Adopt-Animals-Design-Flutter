@@ -10,12 +10,12 @@ class Secongpage extends StatefulWidget {
 class _SecongpageState extends State<Secongpage> {
   @override
   Widget build(BuildContext context) {
-    EdgeInsets padsingEdge = EdgeInsets.only(left: 35.0, right: 35.0);
+    EdgeInsets padsingEdge = EdgeInsets.only(left: 30.0, right: 30.0);
     double height = MediaQuery.of(context).size.height;
     double width = MediaQuery.of(context).size.width;
     return Scaffold(
       body: Container(
-        padding: EdgeInsets.only(top: 35.0, bottom: 35.0),
+        padding: EdgeInsets.only(top: 20.0,),
         color: Color.fromRGBO(250, 250, 250, 1),
         height: height,
         width: width,
@@ -58,17 +58,17 @@ class _SecongpageState extends State<Secongpage> {
               ),
             ),
             SizedBox(
-              height: height / 40,
+              height: height / 100,
             ),
             Padding(
               padding: padsingEdge,
               child: Text(
                 "Adopt\nAnimals",
-                style: TextStyle(fontSize: 40.0, fontWeight: FontWeight.bold),
+                style: TextStyle(fontSize: height/25.0, fontWeight: FontWeight.bold),
               ),
             ),
             SizedBox(
-              height: height / 40,
+              height: height / 50,
             ),
             Padding(
               padding: padsingEdge,
@@ -111,13 +111,13 @@ class _SecongpageState extends State<Secongpage> {
               ),
             ),
             SizedBox(
-              height: height / 20,
+              height: height / 40,
             ),
             Padding(
               padding: padsingEdge,
               child: Text(
                 "Trending categories",
-                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 17.0),
+                style: TextStyle(fontWeight: FontWeight.bold, fontSize: height/45.0),
               ),
             ),
             SizedBox(
@@ -136,20 +136,20 @@ class _SecongpageState extends State<Secongpage> {
               ),
             ),
             SizedBox(
-              height: height / 40,
+              height: height / 30,
             ),
             Padding(
               padding: padsingEdge,
               child: Text(
                 "Around you",
-                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 17.0),
+                style: TextStyle(fontWeight: FontWeight.bold, fontSize: height/45.0),
               ),
             ),
             SizedBox(
               height: height / 60,
             ),
             Container(
-                height: height / 3.0,
+                height: height / 2.8,
                 width: width,
                 child: ListView(
                   scrollDirection: Axis.horizontal,
@@ -172,16 +172,16 @@ class _SecongpageState extends State<Secongpage> {
     return Column(
       children: <Widget>[
         Container(
-          height: width / 6,
-          width: width / 6,
+          height: height / 6.5,
+          width: height / 6.5,
           decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(15.0),
             color: tab,
           ),
           child: Center(
               child: Container(
-            height: width / 12,
-            width: width / 12,
+            height: height / 13,
+            width: height / 13,
             decoration:
                 BoxDecoration(image: DecorationImage(image: AssetImage(image))),
           )),
@@ -205,7 +205,7 @@ class _SecongpageState extends State<Secongpage> {
   }
 
   Widget aroundYouPets(String image, String name, String distance) {
-    double height = MediaQuery.of(context).size.height / 3.0;
+    double height = MediaQuery.of(context).size.height / 2.8;
     double width = MediaQuery.of(context).size.width / 2.2;
     return Padding(
       padding: EdgeInsets.only(left: 35.0),
