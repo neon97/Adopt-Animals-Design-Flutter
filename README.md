@@ -2,11 +2,12 @@
 
 <h3>Check out for full Flutter UI design video on <a class="github-button" href="https://www.youtube.com/channel/UCRhmjCnvOgULTzEFe-Jpfdw">Youtube</a></h3> 
 
-<img src="https://github.com/neon97/Textfield-with-Dropdown-in-Flutter-Combo-Box-in-FLutter/blob/master/Screenshots/combo%20box.jpg?raw=true"  width="200" >
-</img>
+
 
 <a href="https://www.w3schools.com">
-<img border="0" alt="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/thumbnail.png?raw=true" width="100" height="100">
+<img src="https://github.com/neon97/Textfield-with-Dropdown-in-Flutter-Combo-Box-in-FLutter/blob/master/Screenshots/combo%20box.jpg?raw=true"  width="200" >
+</img>
+</a>
 
 UI designed by <a class="github-button" href="https://www.instagram.com/michaelf.design/">Michaelf.design</a>
 
