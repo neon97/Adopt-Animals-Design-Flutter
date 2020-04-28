@@ -25,10 +25,17 @@ UI designed by <a class="github-button" href="https://www.instagram.com/michaelf
 
 Some Screenshots:
 
-<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/2page.png?raw=true"  width="400" height="400"></img>
+<a href="https://youtu.be/kd1CLYLymbI">
+<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/2page.png?raw=true"  width="500"
+     height="300">
+</img>
+</a>
 
-<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/1page.png?raw=true"  width="400" height="400"></img>
-<br>
+<a href="https://youtu.be/kd1CLYLymbI">
+<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/1page.png?raw=true"  width="500"
+     height="300">
+</img>
+</a>
 
 Follow me on :
 <br>
