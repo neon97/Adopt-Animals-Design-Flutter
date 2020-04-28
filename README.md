@@ -12,6 +12,7 @@ Which can help people to look for animals adoption provided by the nearby adopti
      height="300">
 </img>
 </a>
+<br>
 
 UI designed by <a class="github-button" href="https://www.instagram.com/michaelf.design/">Michaelf.design</a>
 
@@ -20,15 +21,14 @@ UI designed by <a class="github-button" href="https://www.instagram.com/michaelf
      height="300">
 </img>
 </a>
+<br>
 
 Some Screenshots:
-
 <img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/1page.png?raw=true"  width="400"
-     height="600">
+     height="500">
 </img>
-
 <img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/2page.png?raw=true"  width="400"
-     height="600">
+     height="500">
 </img>
 
 Follow me on :
