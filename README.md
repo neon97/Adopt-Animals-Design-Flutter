@@ -1,7 +1,7 @@
 # Adopt Animals UI Design on Flutter
 
 Adopt Animal Design in Flutter in such a way that its reponsive for every mobile app running on Android / iOS 
-As flutter is a framework that can work on Android/iOS/Web/Windows/MacOS etc...  currently on Fuchsia too...
+As flutter is a framework that can work on Android / iOS / Web / Windows / MacOS etc...  currently on Fuchsia too...
 
 Adopt Animal is App UI that can help to adopt animlas from app working both on Android / iOS..
 Which can help people to look for animals adoption provided by the nearby adoption centres...
@@ -14,20 +14,21 @@ Which can help people to look for animals adoption provided by the nearby adopti
 </a>
 
 UI designed by <a class="github-button" href="https://www.instagram.com/michaelf.design/">Michaelf.design</a>
+
 <a href="https://www.instagram.com/p/B_Ky8yBAb1b/">
-<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/design.png?raw=true"  width="500"
+<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/design.png?raw=true"  width="400"
      height="300">
 </img>
 </a>
 
 Some Screenshots:
 
-<img src=""  width="500"
-     height="300">
+<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/1page.png?raw=true"  width="400"
+     height="600">
 </img>
 
-<img src=""  width="500"
-     height="300">
+<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/2page.png?raw=true"  width="400"
+     height="600">
 </img>
 
 Follow me on :
