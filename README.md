@@ -1,10 +1,9 @@
 # Adopt Animals UI Design on Flutter
 
-<h3>Check out for full video on <a class="github-button" href="https://www.youtube.com/channel/UCRhmjCnvOgULTzEFe-Jpfdw">Youtube</a></h3> 
+<h3>Check out for full Flutter UI design video on <a class="github-button" href="https://www.youtube.com/channel/UCRhmjCnvOgULTzEFe-Jpfdw">Youtube</a></h3> 
 
 <img src="https://github.com/neon97/Textfield-with-Dropdown-in-Flutter-Combo-Box-in-FLutter/blob/master/Screenshots/combo%20box.jpg?raw=true"  width="200" >
 </img>
-Before getting started to write the code need to import a package that would help to make this build possible.....
 
 <a href="https://www.w3schools.com">
 <img border="0" alt="W3Schools" src="logo_w3s.gif" width="100" height="100">
