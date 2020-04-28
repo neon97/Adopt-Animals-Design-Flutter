@@ -6,7 +6,7 @@
 </img>
 
 <a href="https://www.w3schools.com">
-<img border="0" alt="W3Schools" src="logo_w3s.gif" width="100" height="100">
+<img border="0" alt="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/thumbnail.png?raw=true" width="100" height="100">
 
 UI designed by <a class="github-button" href="https://www.instagram.com/michaelf.design/">Michaelf.design</a>
 
